@@ -1,0 +1,21 @@
+Added Component: Designator=LCD2x16(FP_LCD2X16curr)
+Add component (AddParameter): Name = "Name"; Value = "ERM1602SBS-6 _ 3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "BUY030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ChipCAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LCD2x16-1
+Added Pin To Net: NetName=3.3V Pin=LCD2x16-2
+Added Pin To Net: NetName=VO Pin=LCD2x16-3
+Added Pin To Net: NetName=RS Pin=LCD2x16-4
+Added Pin To Net: NetName=RW Pin=LCD2x16-5
+Added Pin To Net: NetName=E Pin=LCD2x16-6
+Added Pin To Net: NetName=DB0 Pin=LCD2x16-7
+Added Pin To Net: NetName=DB1 Pin=LCD2x16-8
+Added Pin To Net: NetName=DB2 Pin=LCD2x16-9
+Added Pin To Net: NetName=DB3 Pin=LCD2x16-10
+Added Pin To Net: NetName=DB4 Pin=LCD2x16-11
+Added Pin To Net: NetName=DB5 Pin=LCD2x16-12
+Added Pin To Net: NetName=DB6 Pin=LCD2x16-13
+Added Pin To Net: NetName=DB7 Pin=LCD2x16-14
+Added Pin To Net: NetName=A Pin=LCD2x16-15
+Added Pin To Net: NetName=GND Pin=LCD2x16-16
+Added Member To Class: ClassName=Nucleo Member=Component LCD2x16 LCD

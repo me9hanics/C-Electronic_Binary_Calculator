@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=DSuppressor-1
+Removed Pin From Net: NetName=5V Pin=DSuppressor-2
+Removed Member From Class: ClassName=Nucleo Member=DSuppressor
+Added Component: Designator=DSupressor(DiodeSMAJ5A)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U_Z"; Value = "24"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=DSupressor-1
+Added Pin To Net: NetName=GND Pin=DSupressor-2
+Added Member To Class: ClassName=Nucleo Member=Component DSupressor 24

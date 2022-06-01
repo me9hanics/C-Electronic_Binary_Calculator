@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IRS0dot Pin=U1-35
+Removed Pin From Net: NetName=IRS12 Pin=U1-36
+Removed Pin From Net: NetName=IRS78 Pin=U1-37
+Removed Pin From Net: NetName=IRS45 Pin=U1-38
+Removed Pin From Net: NetName=IRS3+ Pin=U1-49
+Removed Pin From Net: NetName=IRS6- Pin=U1-51
+Removed Pin From Net: NetName=IRS9x Pin=U1-53
+Removed Pin From Net: NetName=IRSequaldivide Pin=U1-72
+Added Pin To Net: NetName=IRS3+ Pin=U1-30
+Added Pin To Net: NetName=IRS6- Pin=U1-34
+Added Pin To Net: NetName=IRS9x Pin=U1-35
+Added Pin To Net: NetName=IRSequaldivide Pin=U1-37
+Added Pin To Net: NetName=IRS12 Pin=U1-51
+Added Pin To Net: NetName=IRS45 Pin=U1-53
+Added Pin To Net: NetName=IRS78 Pin=U1-62
+Added Pin To Net: NetName=IRS0dot Pin=U1-72
+Added Member To Class: ClassName=Nucleo Member=Component R3D 220R

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C3.3VtapIN-1
+Removed Pin From Net: NetName=5V Pin=C3.3VtapIN-2
+Change Comment: Unknown Component : C3.3VtapIN
+Change component parameters: Component "C3.3VtapIN" not found
+Change component parameters: Designator = "DSupressor" ("DSupressor"); Footprint = "DiodeSMAJ5A"; UniqueID = "\HZOXFBAV" ("\HZOXFBAV")
+Change component parameters (AddParameter): Name = "Name"; Value = "SMAJ5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U_Z"; Value = "24"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3.3VtapIN-1
+Add Pin To Net: Unknown Pin: Pin C3.3VtapIN-2

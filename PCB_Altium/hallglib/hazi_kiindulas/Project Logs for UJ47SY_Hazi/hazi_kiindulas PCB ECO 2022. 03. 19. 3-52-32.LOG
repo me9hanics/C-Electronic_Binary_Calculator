@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=DSch-2
+Change component parameters: Designator = "DSch" ("DSch"); Footprint = "FP_SOD323-F"; UniqueID = "\WWMRRUPD" ("\WWMRRUPD")
+Change component parameters (AddParameter): Name = "Name"; Value = "Catch Diode (Schottky)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "83-01-41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Lomex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DSch-1
+Added Pin To Net: NetName=NetDSch_2 Pin=DSch-2
+Added Pin To Net: NetName=NetDSch_2 Pin=LFB-1
+Added Pin To Net: NetName=NetDSch_2 Pin=UBuck-2
+Added Net: Name=NetDSch_2

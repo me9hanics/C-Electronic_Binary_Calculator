@@ -1,0 +1,10 @@
+Added Component: Designator=C3.3VtapIN(CAP_100uF_ELKO)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C3.3VtapIN-1
+Added Pin To Net: NetName=GND Pin=C3.3VtapIN-2
+Added Member To Class: ClassName=Nucleo Member=Component C3.3VtapIN 100uF

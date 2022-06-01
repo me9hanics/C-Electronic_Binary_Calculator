@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:55:27 On 2022. 03. 19.
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [UJ47SY_Hazi.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 5:55:29 On 2022. 03. 19.

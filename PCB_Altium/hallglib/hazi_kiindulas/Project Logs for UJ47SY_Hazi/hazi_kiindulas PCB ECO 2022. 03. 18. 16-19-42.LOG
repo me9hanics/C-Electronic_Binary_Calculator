@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=C3.3VtapIN NewDesignator=CBin
+Change Component Designator: OldDesignator=C3.3VtapOUT NewDesignator=CBout
+Change Component Designator: OldDesignator=CFeedBack NewDesignator=CFB
+Change Component Designator: OldDesignator=D3.3Vout NewDesignator=DSch
+Change Component Designator: OldDesignator=DSupressor NewDesignator=DSup
+Change Component Designator: OldDesignator=FETAnode NewDesignator=FAn
+Change Component Designator: OldDesignator=FETVO NewDesignator=FVO
+Change Component Designator: OldDesignator=Fuse8V NewDesignator=F8V
+Change Component Designator: OldDesignator=J1 NewDesignator=J
+Change Component Designator: OldDesignator=LFeedBack NewDesignator=LFB
+Change Component Designator: OldDesignator=RFETAGND NewDesignator=RFAnGND
+Change Component Designator: OldDesignator=RFETALCD NewDesignator=RFAnLCD
+Change Component Designator: OldDesignator=RFETAnodePWM NewDesignator=RFAnin
+Change Component Designator: OldDesignator=RFETVOGND NewDesignator=RFVOGND
+Change Component Designator: OldDesignator=RFETVOPWM NewDesignator=RFVOin
+Change Component Designator: OldDesignator=S e q u a l NewDesignator=Sequal
+Change Component Designator: OldDesignator=U3.3VBuck NewDesignator=UBuck
+Change component parameters: Designator = "C3.3VtapIN" ("C3.3VtapIN"); Footprint = "CAP_100uF_ELKO"; UniqueID = "\JLLSPSSF" ("\JLLSPSSF")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "91-00-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3.3VtapOUT" ("C3.3VtapOUT"); Footprint = "FP_0805_CAP_085"; UniqueID = "\BTPYXFFL" ("\BTPYXFFL")
+Change component parameters (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "91-01-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD3.3Vout_1 New Net Name=NetDSch_1
+Change Net Name : Old Net Name=NetFETAnode_1 New Net Name=NetFAn_1
+Change Net Name : Old Net Name=NetFETAnode_3 New Net Name=NetFAn_3
+Change Net Name : Old Net Name=NetFETVO_1 New Net Name=NetFVO_1
+Change Net Name : Old Net Name=NetFETVO_3 New Net Name=NetFVO_3
+Change Net Name : Old Net Name=NetFuse8V_1 New Net Name=NetF8V_1
+Added Member To Class: ClassName=Nucleo Member=Component CBin 100uF
