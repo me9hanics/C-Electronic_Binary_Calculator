@@ -9,3 +9,5 @@ which using the microcontroller, detects which buttons  are pressed, writes on t
 
 
 ![diag](https://user-images.githubusercontent.com/82604073/171515569-0da1a519-1b1e-4274-a282-5564f1be1bc6.png)
+
+The LCD's anode pin isn't working correctly, so I made a client application to aid that problem, displaying the calculator's display (and it's buttons). 
