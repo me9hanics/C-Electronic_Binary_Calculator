@@ -27,3 +27,5 @@ The LCD's anode pin isn't working correctly, so I made a client application to a
 ![kep2](https://user-images.githubusercontent.com/82604073/171652173-1e579eb3-8269-4177-9914-b80b25ffff78.png)
 
 This way I could take the LCD off the board.
+
+![bo](https://user-images.githubusercontent.com/82604073/171654441-8fc4320f-d7cb-4a22-8cf3-09e6cece9e68.jpg)
