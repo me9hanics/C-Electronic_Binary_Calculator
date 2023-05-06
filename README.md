@@ -22,10 +22,10 @@ The firmware, using the analog inputs of the microcontroller, detects which sens
 
 ![diag](https://user-images.githubusercontent.com/82604073/171515569-0da1a519-1b1e-4274-a282-5564f1be1bc6.png)
 
-The LCD's anode pin isn't working correctly, so I made a client application to aid that problem, displaying the calculator's display (and it's buttons). The client app:
+The LCD's anode pin isn't working correctly, I probably broke the LCD when putting it wrongly into the board one time. So I made a client application to aid that problem, displaying the calculator's display (and it's buttons). The client app:
 
 ![kep2](https://user-images.githubusercontent.com/82604073/171652173-1e579eb3-8269-4177-9914-b80b25ffff78.png)
 
-This way I could take the LCD off the board.
+This way I could take the LCD off the board. (The two cables were soldered there to see if it would work this way, but it did not fix it, those cables were desoldered later)
 
 ![bo](https://user-images.githubusercontent.com/82604073/171654441-8fc4320f-d7cb-4a22-8cf3-09e6cece9e68.jpg)
