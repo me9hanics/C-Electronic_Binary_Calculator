@@ -29,3 +29,6 @@ The LCD's anode pin isn't working correctly, I probably broke the LCD when putti
 This way I could take the LCD off the board. (The two cables were soldered there to see if it would work this way, but it did not fix it, those cables were desoldered later)
 
 ![bo](https://user-images.githubusercontent.com/82604073/171654441-8fc4320f-d7cb-4a22-8cf3-09e6cece9e68.jpg)
+
+Initially, the project started off as a decimal calculator. However, two solder bridges were needed to be soldered differently than default, causing every sensor "on the sides" not be able to function due to disconnected pins. I figured this out by that time we were only allowed to work on the software, not the hardware anymore, thus I couldn't change it, I had to use only the 8 "inbetween" sensors, creating a binary calculator: works great, but is not very nice. (The client app showcased the numbers and results in decimal, just the input was 1's and 0's, converted immediately)
+
