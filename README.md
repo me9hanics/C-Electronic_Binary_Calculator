@@ -2,7 +2,7 @@
 Calculator using infrared sensors as buttons, currently used as a binary calculator, using an STM32 Nucleo64 microcontroller.
 Designed a PCB in Altium Designer and Altium CircuitMaker to the microcontroller. It contains a 16x2 LCD and 16 infrared sensors (and a supply circuit, with  reverse current protection). The infrared sensors are used as buttons, as an object gets close to them, their  output voltage changes, making them applicable as buttons. All 16 sensors are connected to 8 analog inputs of the Nucleo board in pairs, their  values are read simultaneously, one per pair at a time (pairs are multiplexed with transistors). 
 
-The board:
+The board and the LCD:
 
 ![IMG_20220602_010716](https://user-images.githubusercontent.com/82604073/171653381-bea7c9e6-313c-424d-a305-5c3f1c364a1b.jpg)
 
